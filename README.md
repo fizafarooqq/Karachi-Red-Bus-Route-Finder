@@ -1,1 +1,1 @@
-# Karachi-Red-Bus-Route-Finder
+The Karachi Red Bus Route Finder is a program designed to assist users in finding bus routes between different stops in Karachi, Pakistan. The implementation is based on principles of data structures and algorithms, particularly graph theory. The algorithm used for finding routes is inspired by graph traversal techniques, and the overall design aims to provide a seamless experience for users navigating through Karachi's extensive bus network.
